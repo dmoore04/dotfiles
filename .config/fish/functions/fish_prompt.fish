@@ -1,0 +1,1 @@
+/home/dmoore04/.local/share/omf/themes/ays/fish_prompt.fish
